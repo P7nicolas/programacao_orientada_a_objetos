@@ -1,0 +1,4 @@
+Para executar o jogo:
+• Usando uma console “entre” na pasta raiz do projeto
+• Instale as bibliotecas necessárias (npm install)
+• Execute o jogo: node index
